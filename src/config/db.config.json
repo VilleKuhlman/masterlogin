@@ -1,0 +1,10 @@
+{
+    "dialect":"sqlite",
+    "storage": "master_login_db.sqlite",
+    "pool": {
+        "max": 5,
+        "idle": 30000,
+        "acquire": 60000
+      }
+    
+}
